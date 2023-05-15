@@ -1,0 +1,18 @@
+Accessing data with JPA
+https://spring.io/guides/gs/accessing-data-jpa/
+https://javadesde0.com/crud-rest-con-spring-boot-y-jpa/#
+
+Simple examples of how to create a crud in h2, mysql and mongodb, respectively.
+https://www.bezkoder.com/spring-boot-jpa-h2-example/
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+https://www.bezkoder.com/spring-boot-mongodb-crud/
+
+Using the Connection URI Property
+https://www.baeldung.com/spring-data-mongodb-connection
+
+Spring Data JPA - Reference documentation
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+
+
+Spring Data Note:
+We also provide persistence technology-specific abstractions, such as JpaRepository or MongoRepository. Those interfaces extend CrudRepository and expose the capabilities of the underlying persistence technology in addition to the rather generic persistence technology-agnostic interfaces such as CrudRepository.
